@@ -1,4 +1,4 @@
-:HL["/bulb13-preview/_next/static/chunks/2inn37wm1pxs8.css","style"]
+:HL["/bulb13-preview/_next/static/chunks/1jv4xm6zs1iht.css","style"]
 :HL["/bulb13-preview/_next/static/media/280fac012b00b901-s.p.3ihiqn4pviisd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/bulb13-preview/_next/static/media/3347fc7792f0b5ea-s.p.0c7ha31nuacbu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/bulb13-preview/_next/static/media/441492499fc86682-s.p.1fbvi_fot8u4l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -12,4 +12,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"illuminated-stand","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"products","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
-0:{"b":"KCEikUin52-zId_oPoiIc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"r26LRMxAlwpRZhIUXiWWR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
