@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/bulb13-preview/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/bulb13-preview/_next/static/chunks/3gu9z-56pjqgt.js"
+c:"/bulb13-preview/_next/static/chunks/0aa69sr2hsuh_.js"
+d:"/bulb13-preview/_next/static/chunks/390k-yutut6vf.js"
+e:"/bulb13-preview/_next/static/chunks/1oa4j-prns-9f.js"
+f:I[92022,["$b","$c","$d","$e"],"HelpChoose"]
+10:I[97367,["$4"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$4"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$4"],"$16"]
+18:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","div",null,{"className":"mx-auto w-full max-w-6xl px-4 pb-6 pt-8 sm:px-6 sm:pt-12","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Help me choose"}],["$","p",null,{"className":"mt-3 max-w-2xl text-lg leading-8 text-muted","children":"Answer two questions and we'll suggest BULB13 designs."}]]}],["$","$Lf",null,{}]],[["$","script","script-0",{"src":"/bulb13-preview/_next/static/chunks/390k-yutut6vf.js","async":true}],["$","script","script-1",{"src":"/bulb13-preview/_next/static/chunks/1oa4j-prns-9f.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$9"}}]]
+2:[["children",{"s":"help-me-choose","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#f7f3ee"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Help me choose | BULB13"}],["$","meta","1",{"name":"description","content":"Answer two questions and we'll suggest BULB13 designs."}],["$","meta","2",{"name":"application-name","content":"BULB13"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://ahmadalqenaei.github.io/bulb13-preview/en/help-me-choose/"}],["$","link","5",{"rel":"alternate","hrefLang":"ar","href":"https://ahmadalqenaei.github.io/bulb13-preview/ar/help-me-choose/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://ahmadalqenaei.github.io/bulb13-preview/en/help-me-choose/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://ahmadalqenaei.github.io/bulb13-preview/ar/help-me-choose/"}],["$","meta","8",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","9",{"name":"apple-mobile-web-app-title","content":"BULB13"}],["$","meta","10",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","11",{"property":"og:title","content":"Help me choose | BULB13"}],["$","meta","12",{"property":"og:description","content":"Answer two questions and we'll suggest BULB13 designs."}],["$","meta","13",{"property":"og:url","content":"https://ahmadalqenaei.github.io/bulb13-preview/en/help-me-choose/"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Help me choose | BULB13"}],["$","meta","16",{"name":"twitter:description","content":"Answer two questions and we'll suggest BULB13 designs."}],["$","link","17",{"rel":"icon","href":"/bulb13-preview/icon.svg"}],["$","$L18","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"WOoCUCtzIyt0epftvPgxg"}
+12:null
+1b:true
+9:300
+9:C
+1a:0
+7:"$undefined"
+19:"$undefined"
+13:"$undefined"
