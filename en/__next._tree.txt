@@ -19,4 +19,4 @@
 :HL["/bulb13-preview/_next/static/chunks/40kiseglawgci.css","style"]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
-0:{"b":"RDU7DjxnWWpsX_VWHVwFe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KnVCObaRbP3IK9acHNA9L","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
